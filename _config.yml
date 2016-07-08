@@ -1,0 +1,14 @@
+layout_spectrum: 0.3911631677765399
+typography_spectrum: 0.6387538937851787
+color:
+  brandStrength: 0.7370955836959183
+  lightness: 0.9276189394295216
+  saturation: 0.052640115143731236
+  rhythmicContrast: 0.1301792801823467
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: CAD
